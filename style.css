@@ -26,7 +26,7 @@ header > h1 {
     padding-top: 50px;
     font-variant: small-caps;
     font-family: 'Passion One', cursive;
-    font-size: 6vw;
+    font-size: 10vw;
 }
 
 header > p {
@@ -46,7 +46,7 @@ section {
     padding-left: 30px;
     font-family: 'Sriracha', cursive;
     line-height: 2em;
-    font-size: 4vh;
+    font-size: 4.5vh;
 }
 
 section.normal {
